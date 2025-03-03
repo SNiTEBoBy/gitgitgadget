@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/html-to-text": "^8.0.1",
     "@types/imap-simple": "^4.2.5",
-    "@types/jest": "^27.0.1",
+    "@types/jest": "^29.5.14",
     "@types/json-stable-stringify": "^1.0.33",
     "@types/jsonwebtoken": "^8.5.5",
     "@types/libqp": "^1.1.1",
@@ -50,7 +50,7 @@
     "eslint-plugin-import": "^2.24.1",
     "eslint-plugin-jest": "^24.4.0",
     "eslint-plugin-jsdoc": "^36.0.7",
-    "jest": "^27.0.5",
+    "jest": "^29.7.0",
     "jest-junit": "^12.2.0",
     "ts-jest": "^27.0.5",
     "ts-node": "^10.2.1",
